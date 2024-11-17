@@ -1,6 +1,6 @@
 ## Hello, I'm Graham 👋
 
-I’m a Software Developer at Fidelity Investments with a passion for coding. I enjoy working with a variety of programming languages and tools to create efficient, scalable solutions. Whether I’m building something from scratch or improving an existing system, I’m always looking for ways to learn and grow. If you're interested in tech, development, or just want to chat about a project, feel free to reach out via email!
+I’m a Software Developer at Fidelity Investments with a passion for coding. I enjoy working with a variety of programming languages and tools to create efficient, scalable solutions. Whether I’m building something from scratch or improving an existing system, I’m always looking for ways to learn and grow. If you're interested in software development or want to speak with me, feel free to reach out via email!
 
 <h2 align="center"> Languages </h2>
 <p align="center">
