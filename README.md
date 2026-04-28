@@ -1,6 +1,6 @@
 ## Hello, I'm Graham 👋
 
-<!-- I’m a Software Developer at Jurata with a passion for coding. Currently working on some personal projects in my spare time, and some open source projects also. I enjoy working with a variety of programming languages and tools to create efficient, scalable solutions. If you're interested in software development or want to speak with me, feel free to reach out via email! -->
+I’m a Software Developer at Jurata with a passion for coding. Currently working on some personal projects in my spare time, and some open source projects also. I enjoy working with a variety of programming languages and tools to create efficient, scalable solutions. If you're interested in software development or want to speak with me, feel free to reach out via email!
 
 <h2 align="center"> Languages </h2>
 <p align="center">
