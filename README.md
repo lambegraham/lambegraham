@@ -1,14 +1,12 @@
 # Hey, I’m Graham.
 
-I build things and fix broken ones.
+<img align="right" src="assets/robot.gif" width="135" height="120" alt="A pixel robot builds a box, breaks it, then repairs it.">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/intro-dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="assets/intro-light.gif">
-  <img src="assets/intro-light.gif" width="700" alt="Some of them were already broken. A pixel robot builds a box, breaks it, then repairs it.">
-</picture>
+I build things and fix broken ones. Some of them were already broken.
 
 [lambe.dev ↗](https://www.lambe.dev) · [Say hello](mailto:graham@lambe.dev)
+
+<br clear="right">
 
 ### The toolbox
 
